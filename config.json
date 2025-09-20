@@ -1,0 +1,48 @@
+{
+  "profile": {
+    "name": "Misbaul Ulum",
+    "bio": "Crypto enthusiast | Airdrop & Testnet Hunter 🚀 | Berbagi peluang reward & tips investasi digital 💰",
+    "imageUrl": "assets/profile2.png",
+    "headerImageUrl": "assets/header.jpg",
+    "location": "📍Pringsewu, Indonesia"
+  },
+  "socialLinks": [
+    { "name": "Instagram", "url": "https://instagram.com/misbaul_ulum" },
+    { "name": "Twitter", "url": "https://twitter.com/misbaul_" },
+    { "name": "GitHub", "url": "https://github.com/misbaululum" },
+    { "name": "LinkedIn", "url": "https://linkedin.com/in/misbaul-ulum" },
+    { "name": "TikTok", "url": "https://tiktok.com/@misbaul_" },
+    { "name": "YouTube", "url": "" }
+  ],
+  "customLinks": [
+    {
+      "label": "Klaim Airdrop 🎁",
+      "url": "pages/project-z.html",
+      "emoji": "✨"
+    },
+    {
+      "label": "Daftar di Binance (Diskon 10% Fee)",
+      "url": "https://www.binance.com/id/register?ref=KODEAFILIASI",
+      "emoji": "💰"
+    },
+    {
+      "label": "Ikut Testnet Alpha Network (Potensi Reward)",
+      "url": "https://alphanet.io/testnet?invite=kodeUnik",
+      "emoji": "🚀"
+    },
+    {
+      "label": "Rekomendasi Gadget Murah (Link Afiliasi)",
+      "url": "pages/affiliete-link.html",
+      "emoji": "🛒"
+    },
+    {
+      "label": "Dapatkan Poin Bonus di GammaSwap",
+      "url": "https://gammaswap.com/points?ref=namaPengguna",
+      "emoji": "🔗"
+    }
+  ],
+  "showEmail": true,
+  "emailAddress": "misbaul99@gmail.com",
+  "showYouTube": true,
+  "youTubeEmbedUrl": "https://www.youtube.com/embed/e0fbu5QvdWY"
+}
